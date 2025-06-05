@@ -1,0 +1,27 @@
+ lista rzeczy, które możesz zrobić w ramach podstawowego EDA:
+
+Załaduj dane i biblioteki (pandas, numpy, matplotlib, seaborn).
+
+Wyświetl pierwsze wiersze danych (head()), typy danych i rozmiar (info(), shape).
+
+Wygeneruj statystyki opisowe (describe()).
+
+Sprawdź brakujące dane (liczność, wizualizacja heatmap).
+
+Zidentyfikuj zmienne kategoryczne i ich unikalne wartości.
+
+Zbadaj rozkłady zmiennych numerycznych (histogramy).
+
+Zbadaj zmienne kategoryczne (liczność wartości).
+
+Wykryj wartości odstające (boxploty).
+
+Sprawdź korelacje między zmiennymi numerycznymi (macierz korelacji).
+
+Wykryj współliniowość (np. przez VIF – Variance Inflation Factor).
+
+Przeanalizuj zależności między zmiennymi (scatterploty, pairploty).
+
+Zidentyfikuj potencjalne dane do transformacji (np. zmienne niesymetryczne).
+
+Zrób podsumowanie i wnioski (co warto usunąć, przekształcić, zakodować).
